@@ -1,0 +1,9 @@
+Snake
+Starting the game:
+	Select Level
+Playing the game:
+	Use keyboard arrow keys to control the snake
+	Snake will grow in length with each apple eaten
+	Don't hit the walls or yourself!
+To Quit:
+	Press the 'Quit' button or 'CTRL+Q' anytime during game to quit.

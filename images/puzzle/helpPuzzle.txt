@@ -1,0 +1,11 @@
+8 Slider Puzzle
+Starting the game:
+	Select a image or upload your own!
+Playing the game:
+	Click on the image pieces to move them up,down,left, or right.
+	Unscrambled the picture to get it back to its original image.
+	Go fast! You are timed.
+Extra Features:
+	Hint: Moves 3 pieces to get you closer to finishing
+	Pause: Pauses the game and stops the timer
+	Undo: Undos your last moves
